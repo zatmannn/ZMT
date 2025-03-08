@@ -26,7 +26,7 @@ ZMT - Zatman's MultiTool
 
 **12. BIN Checker** - Get information about a BIN (Bank Identification Number)
 
-**13. Database Search** - Search through databases (txt, csv, CVV) for relevant information (You need to place your databases in the 'database' folder)
+**13. Database Search** - Search through databases (txt, csv, CVV) for relevant information (You need to place your databases in the *'database'* folder)
 
 *More tools coming soon...*
 

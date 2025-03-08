@@ -1,0 +1,7 @@
+phonenumbers
+requests
+colorama
+python-whois
+bs4
+googlesearch-python
+pillow

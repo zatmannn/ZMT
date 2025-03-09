@@ -67,6 +67,10 @@ ZMT - Zatman's MultiTool
         pip install -r requirements.txt
         python zmtmain.py
 
+02. If you have can't install module Pillow, paste these commands in terminal:
+
+        pkg install libjpeg-turbo freetype zlib
+        pip install pillow
 
 # Disclaimer
 
